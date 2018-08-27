@@ -1,2 +1,2 @@
 # AICircle-Cycle1
-Repository of AI Circle to access session files. 
+Repository of AI Circle to access resources. 
