@@ -10,4 +10,11 @@ This repository is for anyone who is curious about Artificial Intelligence but h
 **Clone or download** the repository for offline use. Notebooks in the repository can be accessed offline by running `jupyter notebook` from terminal. Install jupyter from [here](http://jupyter.readthedocs.io/en/latest/install.html). Install missing dependencies using [pip](https://pypi.org/project/pip/).
 
 ### Roadmap
-![]()
+<img src="Resources/RelativeMedia/roadmap.png" width="600">
+
+---
+
+## **AICircle-Cycle1 Sessions**
+
++ [Session 1](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201)
++ [Session 2](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202)
