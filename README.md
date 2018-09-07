@@ -6,6 +6,4 @@ This repository is for anyone who is curious about Artificial Intelligence but h
 
 **Fork** [AICircle](https://github.com/harishrb/AICircle) repository on GitHub to access contents from the AICircle meetups and other curated resources. 
 
-**Clone or download** the repository for offline use. Notebooks in the repository can be accessed offline by running `jupyter notebook` from terminal. Install jupyter from [here](http://jupyter.readthedocs.io/en/latest/install.html).
-
-Install missing dependencies using [pip](https://pypi.org/project/pip/).
+**Clone or download** the repository for offline use. Notebooks in the repository can be accessed offline by running `jupyter notebook` from terminal. Install jupyter from [here](http://jupyter.readthedocs.io/en/latest/install.html). Install missing dependencies using [pip](https://pypi.org/project/pip/).
