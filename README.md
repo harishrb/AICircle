@@ -1,4 +1,4 @@
-# AICircle-Cycle1
+# **AICircle-Cycle1**
 
 #### AICircle is aimed at helping AI enthusiasts learn the core concepts and best practicecs to hone the skills of Artificial Intelligence.
 
@@ -14,7 +14,7 @@ This repository is for anyone who is curious about Artificial Intelligence but h
 
 ---
 
-## **AICircle-Cycle1 Sessions**
+## AICircle-Cycle1 Sessions
 
 + [Session 1](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201)
 + [Session 2](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202)
