@@ -20,3 +20,4 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
 
 + [Session 1](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201)
 + [Session 2](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202)
++ [Session 3](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%203)
