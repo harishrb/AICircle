@@ -37,3 +37,10 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   Jupyter Notebook for [Numpy](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%203).
   
   Complete this [Numpy Exercise](https://github.com/harishrb/AICircle/blob/master/Resources/Exercises/Numpy%20Exercise.ipynb) to self     assess your understanding of the basic concepts of Numpy. (Difficulty level - Easy)
+  
+  
+  
+ ---
+  
+ ## Additional Resources
+ + [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
