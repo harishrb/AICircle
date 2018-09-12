@@ -1,4 +1,4 @@
-# **AICircle-Cycle1**
+# AICircle-Cycle1
 
 #### AICircle is aimed at helping AI enthusiasts learn the core concepts and best practices to hone the skills of Artificial Intelligence.
 
