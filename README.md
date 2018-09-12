@@ -27,13 +27,13 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
 
 + Session 2 - Pyhton Fundamentals
 
-  Jupyter Notebook for [Python Fundamentals](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202)
+  Jupyter Notebook for [Python Fundamentals](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202).
 
 
 ##### It is very essential to learn Data Science libraries of Python before we step into Machine Learning. We will learn these libraries in the upcoming sessions. 
 
 + Session 3 - Numpy
 
-  Jupyter Notebook for [Numpy](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%203)
+  Jupyter Notebook for [Numpy](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%203).
   
   Complete this [Numpy Exercise](https://github.com/harishrb/AICircle/blob/master/Resources/Exercises/Numpy%20Exercise.ipynb) to self     assess your understanding of the basic concepts of Numpy. (Difficulty level - Easy)
