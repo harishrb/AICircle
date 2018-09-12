@@ -22,13 +22,15 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   
   [Introductory session](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201) - Getting to know the community, Understanding GitHub, Artificial Intelligence - Intro and Motivation.
 
-We will stick to using Python as our preferred programming language throughout this repository.
+
+##### We will stick to using Python as our preferred programming language throughout this repository.
 
 + Session 2 - Pyhton Fundamentals
 
   Jupyter Notebook for [Python Fundamentals](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202)
 
-It is very essential to learn Data Science libraries of Python before we step into Machine Learning. We will learn these libraries in the upcoming sessions. 
+
+##### It is very essential to learn Data Science libraries of Python before we step into Machine Learning. We will learn these libraries in the upcoming sessions. 
 
 + Session 3 - Numpy
 
