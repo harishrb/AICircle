@@ -18,6 +18,20 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
 
 ## AICircle Sessions
 
-+ [Session 1](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201)
-+ [Session 2](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202)
-+ [Session 3](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%203)
++ Session 1 - Intro and Motivation
+  
+  [Introductory session](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201) - Getting to know the community, Understanding GitHub, Artificial Intelligence - Intro and Motivation.
+
+We will stick to using Python as our preferred programming language throughout this repository.
+
++ Session 2 - Pyhton Fundamentals
+
+  Jupyter Notebook for [Python Fundamentals](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202)
+
+It is very essential to learn Data Science libraries of Python before we step into Machine Learning. We will learn these libraries in the upcoming sessions. 
+
++ Session 3 - Numpy
+
+  Jupyter Notebook for [Numpy](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%203)
+  
+  Complete this [Numpy Exercise](https://github.com/harishrb/AICircle/blob/master/Resources/Exercises/Numpy%20Exercise.ipynb) to self     assess your understanding of the basic concepts of Numpy. (Difficulty level - Easy)
