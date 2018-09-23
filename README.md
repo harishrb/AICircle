@@ -35,7 +35,7 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   
    ***How does that matter to Machine Learning?***
   
-  <img src="Resources/RelativeMedia/data-driven.jpg" width="300">
+  <img src="Resources/RelativeMedia/data-driven.jpg" width="350">
 
   We know from our [Introductory session](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201) that Machine Learning    is dependent on the training experience. That should get you thinking about how data is responsible for training a model. We will learn how in the upcoming sessions. Essentially, Python core libraries for Data Science.
 
