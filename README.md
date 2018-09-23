@@ -33,11 +33,12 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
 
 #### **Data Science is interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms.** 
   
-  ##### *How does that matter to Machine Learning?*
+   ***How does that matter to Machine Learning?***
   
   <img src="Resources/RelativeMedia/data-driven.jpg" width="300">
 
   We know from our [Introductory session](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201) that Machine Learning    is dependent on the training experience. That should get you thinking about how data is responsible for training a model. We will learn how in the upcoming sessions. Essentially, Python core libraries for Data Science.
+
 
 + Session 3 - Numpy
 
