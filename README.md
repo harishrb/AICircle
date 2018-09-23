@@ -1,20 +1,20 @@
 # AICircle-Cycle1
 
-#### AICircle is aimed at helping AI enthusiasts learn the core concepts and best practices to hone the skills of Artificial Intelligence.
+#### A simplistic and structured approach of understanding the intricacies around Data Science, Machine Learning and Deep Learning.
 
-The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for anyone who is curious about Artificial Intelligence but has no idea where to start. Contents in the repository tries wavering prerequisites to the maximum extent covering fundamentals of Python programming and links to resources of math required, yet keeping the concepts concise.
+The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for anyone who is curious about Data Science, Machine Learning and Deep Learning but has no idea where to start. Contents in the repository tries wavering prerequisites to the maximum extent covering fundamentals of Python programming and links to resources of math required, yet keeping the concepts concise.
 
 ### Usage
 **Fork** the repository on GitHub to access contents from the AICircle meetups and other curated resources. 
 
 **Clone or download** the repository for offline use. Notebooks in the repository can be accessed offline by running `jupyter notebook` from terminal. Install jupyter from [here](http://jupyter.readthedocs.io/en/latest/install.html). Install missing dependencies using [pip](https://pypi.org/project/pip/).
 
----
+------
 
 ### Roadmap
 <img src="Resources/RelativeMedia/roadmap.png" width="500">
 
----
+------
 
 ## AICircle Sessions
 
@@ -29,8 +29,15 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
 
   Jupyter Notebook for [Python Fundamentals](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%202).
 
+---
 
-##### It is very essential to learn Data Science libraries of Python before we step into Machine Learning. We will learn these libraries in the upcoming sessions. 
+#### **Data Science is interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms.** 
+  
+  ##### *How does that matter to Machine Learning?*
+  
+  <img src="Resources/RelativeMedia/data-driven.jpg" width="300">
+
+  We know from our [Introductory session](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201) that Machine Learning    is dependent on the training experience. That should get you thinking about how data is responsible for training a model. We will learn how in the upcoming sessions. Essentially, Python core libraries for Data Science.
 
 + Session 3 - Numpy
 
@@ -43,3 +50,6 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   
 ## Additional Resources
 + [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+
+
+
