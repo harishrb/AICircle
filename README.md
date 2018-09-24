@@ -31,7 +31,7 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
 
 ---
 
-#### **Data Science is interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms.** 
+#### **Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms.** 
   
    ***How does that matter to Machine Learning?***
   
@@ -40,17 +40,26 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   We know from our [Introductory session](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%201) that Machine Learning    is dependent on the training experience. That should get you thinking about how data is responsible for training a model. We will learn how in the upcoming sessions. Essentially, Python core libraries for Data Science.
 
 
-+ Session 3 - Numpy
++ Session 3 - Scientific computing with Python (Getting to know Numpy library)
 
   Jupyter Notebook for [Numpy](https://github.com/harishrb/AICircle/tree/master/Sessions/Session%203).
   
   Complete this [Numpy Exercise](https://github.com/harishrb/AICircle/blob/master/Resources/Exercises/Numpy%20Exercise.ipynb) to self     assess your understanding of the basic concepts of Numpy. (Difficulty level - Easy)
   
++ Session 4 - Million dollar tips (kind of!) on 'How to learn FASTER and BETTER?'
+
+  Watch the recorded zoom session here.
+  
+  <a href = "#res">Resources</a>
+ 
+  
    
 ---
   
-## Additional Resources
+  
+<div id = "res">
+  <h2> Additional Resources </h2>
 + [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
-
+</div>
 
 
