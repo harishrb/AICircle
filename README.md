@@ -85,7 +85,9 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   
 <div id = "res">
   <h2> Additional Resources </h2>
-+ [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary/)
+  <ul>
+  <li><a href = "https://developers.google.com/machine-learning/glossary/">Machine Learning Glossary</a><li>
+  </ul>
 </div>
 
 
