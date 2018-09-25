@@ -64,9 +64,11 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   
   Keeping stats and math at fingertips is a great practice to follow. Wondering why?
   
+  Watch [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY) video by Siraj Raval on YouTube. 
+  
   <img src = "Resources/RelativeMedia/johnwooden1.jpg">
   
-  <strong>Some of the great resuorces to learn stats and essential math</strong>
+  <strong>Some of the great resources to learn stats and essential math</strong>
   <ul>
   <li>Statistics and Probability</li>
   <a href = "https://www.khanacademy.org/math/statistics-probability">Khan Academy</a>
@@ -76,7 +78,8 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   <a href = "https://www.youtube.com/watch?v=X9t-u87df3o&list=PLBE9407EA64E2C318">MIT OpenCourseWare Playlist</a>
   </ul>
   
-  <a href = "#res">Additional Resources</a>
+  <a href = "#res"> Find amazing blog posts and additional resources in this new section. </a>
+  Create a `pull request` to contribute to this section.
  
   
    
@@ -84,7 +87,7 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   
   
 <div id = "res">
-  <h2> Additional Resources </h2>
+  <h2> Blog Posts and Additonal Resources </h2>
 </div>
   <ul>
   <li><a href = "https://developers.google.com/machine-learning/glossary/">Machine Learning Glossary</a></li>
