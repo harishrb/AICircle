@@ -64,7 +64,7 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   
   Keeping stats and math at fingertips is a great practice to follow. Wondering why?
   
-  Watch [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY) video by Siraj Raval on YouTube. 
+  Watch [The Math of Intelligence](https://www.youtube.com/watch?v=xRJCOz3AfYY) video by [Siraj Raval](https://www.linkedin.com/in/sirajraval/) on YouTube. 
   
   <img src = "Resources/RelativeMedia/johnwooden1.jpg">
   
@@ -79,7 +79,7 @@ The [AICircle](https://github.com/harishrb/AICircle) GitHub repository is for an
   </ul>
   
   <a href = "#res"> Find amazing blog posts and additional resources in this new section. </a>
-  Create a `pull request` to contribute to this section.
+  Create a **pull request** to contribute to this section.
  
   
    
